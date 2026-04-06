@@ -1,0 +1,6 @@
+{
+  "name": "crispy-giggle",
+  "dependencies": {
+    "wrangler": "latest"
+  }
+}
