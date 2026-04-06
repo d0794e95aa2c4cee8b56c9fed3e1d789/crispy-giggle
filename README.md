@@ -1,5 +1,5 @@
 # KILL YOURSELF!!!!
-# READ THE LINK!
+## READ THE LINK!
 
 
-![](src/newb.png)
+![](./IMG_2795.jpeg)
